@@ -4,7 +4,6 @@ import socket
 from datetime import datetime
 ascii_banner = pyfiglet.figlet_format("PORT SCANNER")
 print(ascii_banner)
-
 target = input(str(""))
 # Defining a target
 if len(sys.argv) == 2:
