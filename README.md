@@ -5,7 +5,7 @@ This Tool Create By
     @Author : 7elmie. 
 Can Every one Used This Port Scan and update or upgrade This Tool From Your minde and Brian's and This is Simple Script To Scan All Port.
 
-You Can Rur This Tool in CMD :
+# You Can Rur This Tool in CMD :
   
     open Loaction Of file and open cmd in this Location 
     write This Command 
